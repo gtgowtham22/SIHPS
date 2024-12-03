@@ -11,7 +11,7 @@ Government of Gujarat
 
 ## Idea
 
-gt go
+
 ## Proposed Solution / Architecture Diagram
 
 
